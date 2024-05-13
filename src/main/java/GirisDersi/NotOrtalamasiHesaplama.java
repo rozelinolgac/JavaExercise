@@ -30,6 +30,5 @@ public class NotOrtalamasiHesaplama {
 
         String sinifiGecmeDurumu =ortalama >= 60 ? "Sınıfı Geçtiniz, Tebrikler!" : "Sınıfı Kaldınız." ;
         System.out.println(sinifiGecmeDurumu);
-
     }
 }
