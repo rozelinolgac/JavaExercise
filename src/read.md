@@ -1,0 +1,1 @@
+test amaçlı read me dosyası
