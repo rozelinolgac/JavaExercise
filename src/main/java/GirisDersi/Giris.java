@@ -54,7 +54,7 @@ public class Giris {
 
     /*
 
-    Kullanıcıdan input alma
+    Kullanıcıdan input alma */
 
 
     System.out.print("Integer bir sayi giriniz : ");
@@ -72,7 +72,7 @@ public class Giris {
 
     String metin = input.next();
     System.out.println("Girilen String Değer : " + metin);
-*/
+
 
 
   }
