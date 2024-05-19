@@ -1,7 +1,6 @@
-package GirisDersi;
+package Exercise;
 
 import java.util.Scanner;
-import java.util.SortedMap;
 
 /*
 

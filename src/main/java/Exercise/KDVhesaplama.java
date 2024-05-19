@@ -1,4 +1,4 @@
-package GirisDersi;
+package Exercise;
 import java.util.Scanner;
 public class KDVhesaplama {
     public static void main(String[] args) {
