@@ -18,6 +18,18 @@ public class ArrayClassEx {
         // elemanın index değerini bulma : Bu method için arrayin sıralı olması gerekiyor
         System.out.println(Arrays.binarySearch(array,8));
         // Arraylerin kopyalanması :
+        int [] array1 = {9,4,5,7,2};
+        int [] newArray;
+        newArray = Arrays.copyOf(array1,array1.length);
+        System.out.println(Arrays.toString(newArray));
+        // Arraylerin belli bir kısımlarının kopyalanması :
+        int [] newArray2;
+        newArray2=Arrays.copyOfRange(array1,1,3); // 3. indeks dahil değil : 1-2. indeks
+        System.out.println(Arrays.toString(newArray2));
+
+        // Dizilerin karşılaştırılması :
+        System.out.println(Arrays.equals(array1,newArray));
+
 
 
 
