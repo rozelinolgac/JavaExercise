@@ -24,4 +24,5 @@ public class DizideTekrarEdenSayilarinFrekansi {
                 System.out.println(array[i] + " sayısının tekrar sayısı : " + count);
             }
         }
+    }
 }
